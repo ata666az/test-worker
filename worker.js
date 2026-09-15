@@ -27,7 +27,7 @@ const CONFIG = Object.freeze({
     // VPS relay untuk UDP (protokol VLRLY004)
     // Port harus sama dengan LISTEN_PORT di index.js
     // ----------------------------------------------------------------
-    VPS_RELAY_HOST: 'vps.contoh.com',   // ← GANTI dengan IP/domain VPS
+    VPS_RELAY_HOST: 'wsudprelay-production-7524.up.railway.app',   // ← GANTI dengan IP/domain VPS
     VPS_RELAY_PORT: 443,
 
     // ----------------------------------------------------------------
